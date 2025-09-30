@@ -9,7 +9,6 @@ fl<div>
 <h3 align="center">도전 깃꾸 </h3>
 <h3 align="center"> 🌱저는 백엔드 개발자가 위해 공부하고 있습니다.</h3>
 
-- 📫이메일 **ejsvkgkarj@gmail.com**
 
 
 <h3 align="left">인스타:</h3>
