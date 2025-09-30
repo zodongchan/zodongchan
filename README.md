@@ -1,4 +1,4 @@
-## 어서오세요 👋
+## HI, apple 🍎
 
 # Project Title
 
