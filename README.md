@@ -1,4 +1,4 @@
-## Hi there 👋
+## 어서오세요 👋
 
 <!--
 **zodongchan/zodongchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
