@@ -1,6 +1,6 @@
 ## 어서오세요 👋
 
-Message and color only, separated by a dash -. For example:
+![instagram]
 just the message - https://img.shields.io/badge/just%20the%20message-8A2BE2
 <!--
 **zodongchan/zodongchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
