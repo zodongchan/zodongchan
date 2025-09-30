@@ -16,7 +16,7 @@ fl<div>
 <p align="left">
 <a href="https://instagram.com/zodongchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zodongchan" height="30" width="40" /></a>
 </p>
-
+- 📫이메일 **ejsvkgkarj@gmail.com**
 <h3 align="left">언어 및 도구:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
