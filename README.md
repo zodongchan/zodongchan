@@ -12,7 +12,7 @@ fl<div>
 - 📫이메일 **ejsvkgkarj@gmail.com**
 
 
-<h3 align="left">연결:</h3>
+<h3 align="left">인스타:</h3>
 <p align="left">
 <a href="https://instagram.com/zodongchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zodongchan" height="30" width="40" /></a>
 </p>
