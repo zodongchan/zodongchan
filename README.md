@@ -2,7 +2,7 @@
 
 fl<div>
   <!--Header-->
-  ![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97](https://i.namu.wiki/i/nd7VHK5Ri6RN8tHpfqx3N2D759S9o8kCLpkdCysV57_qkj-Kg1k-aFRhYsQxz6MrTLjv2FvNpuikFVGcXcTvGjxmFe-kCG0-ghXoMZ7AYRKNJ8puJrkiPA2YdGzvrX4n_zB1bF_RyCfMZ-BI6JAWbw.webp))
+  ![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97])
   
 </div>
 
