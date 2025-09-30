@@ -11,7 +11,6 @@ fl<div>
 
 - 📫이메일 **ejsvkgkarj@gmail.com**
 
-         **ejsvkgkarj@naver.com**
 
 <h3 align="left">연결:</h3>
 <p align="left">
