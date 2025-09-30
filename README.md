@@ -1,12 +1,12 @@
-## HI, apple 🍎
-fl<div>
+## 🌱깃허브꾸미기
+<div>
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
 
 <h1 align="center">안녕하세요 김종찬 입니다.</h1>
-<h3 align="center">🌱저는 백엔드 개발자가 위해 공부하고 있습니다.</h3>
+<h3 align="center">저는 백엔드 개발자가 위해 공부하고 있습니다.</h3>
 
 - 📫이메일 **ejsvkgkarj@gmail.com**
 
@@ -64,7 +64,7 @@ fl<div>
 ** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- Hi there 👋
+- Hi there 👋 긴글 읽어 주셔서 감사합니다.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
