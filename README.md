@@ -20,9 +20,9 @@ fl<div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a 개발자가 되어서 저를 보여드리고 싶습니다.<br/>
-  #### :fire: I aim to become a ...<br/>
-  #### :mortar_board: ...
+  #### :raising_hand: I want to be developer.<br/>
+  #### :fire: I aim to become a richman.<br/>
+  #### :mortar_board: ozcodingschool!
   <br/>
   <br/>
   
