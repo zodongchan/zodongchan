@@ -1,0 +1,23 @@
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible", content="IE=edge">
+    <title>{{ data.title }}</title>
+</head>
+<body>
+    <h1>Hi, {{ data.user }}</h1>
+    {% if data.is_admin %}
+        <p>내가 좋아하는 동물</p>
+    {% else %}
+        <p>모르겠어요.</p>
+    {% endif %}
+
+    <ul>
+        {% for item in data.animal_list %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
